@@ -3,7 +3,7 @@
 ## 📆 Todo
 
 - [x] Criar projeto
-- [ ] Limpar estrutura
+- [x] Limpar estrutura
 - [ ] Criar estilos globais
 - [ ] Criar estrutura da landing page
 - [ ] Estilizar landing page
