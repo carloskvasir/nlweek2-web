@@ -9,5 +9,9 @@
 - [x] Estilizar landing page
 - [ ] Configurar navegação no app
 - [ ] Estruturar listagem de Professores
+- [ ] Estilizar listagem de Professores
+- [ ] Criar components comuns
+- [ ] Estruturar página de cadastro
+- [ ] Preparar cadastro de horários
 
 Feito por Carlos Lima (Kvasir)
