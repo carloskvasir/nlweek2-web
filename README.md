@@ -7,7 +7,7 @@
 - [x] Criar estilos globais
 - [x] Criar estrutura da landing page
 - [x] Estilizar landing page
-- [ ] Configurar navegação no app
+- [x] Configurar navegação no app
 - [ ] Estruturar listagem de Professores
 - [ ] Estilizar listagem de Professores
 - [ ] Criar components comuns
