@@ -6,7 +6,7 @@
 - [x] Limpar estrutura
 - [x] Criar estilos globais
 - [x] Criar estrutura da landing page
-- [ ] Estilizar landing page
+- [x] Estilizar landing page
 - [ ] Configurar navegação no app
 - [ ] Estruturar listagem de Professores
 
