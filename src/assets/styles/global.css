@@ -49,3 +49,14 @@ button,
 textarea {
   font: 500 1.6rem Poppins;
 }
+
+.container {
+  visibility: 90%;
+  margin: 700px;
+}
+
+@media (min-width: 700px) {
+  :root {
+    font-size: 62.5%;
+  }
+}

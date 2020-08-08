@@ -4,7 +4,7 @@
 
 - [x] Criar projeto
 - [x] Limpar estrutura
-- [ ] Criar estilos globais
+- [x] Criar estilos globais
 - [ ] Criar estrutura da landing page
 - [ ] Estilizar landing page
 - [ ] Configurar navegação no app
